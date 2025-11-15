@@ -3,7 +3,7 @@
 A responsive **Recipe Finder App** built using **HTML, CSS, and JavaScript**.  
 Users can search for meals and recipes from around the world using TheMealDB API.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Recipe-Finder/)  
 
 ---
 
